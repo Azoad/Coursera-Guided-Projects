@@ -1,0 +1,1 @@
+This is a collection of Coursera's "Guided Projects" completed by me
